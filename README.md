@@ -111,6 +111,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Hasser CSS](https://github.com/HeavenMercy/HasserCSS) - A lightweight (12k, not minified) but useful CSS framework with flexible Grid, Hero and more.
 * [Inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
+* [Maxic Admin Core](https://github.com/maxicsiva/maxic-admin-core) - Zero-dependency fintech dashboard template built on native CSS custom property design tokens.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 * [Milligram](http://milligram.io) - A minimalist CSS framework.
 * [Numl](https://numl.design) - An HTML-based language and design system that lets you create responsive and accessible high-quality web interfaces with any look.
